@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sharcir
 - 👀 I’m interested in datascience and biochemistry
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on anything related to structural biology
+- 💞️ I’m looking to collaborate on anything related to structural biology and biological mass spectrometry
 - 📫 You may reach me under richard.kuechler@fli.de
 
 <!---

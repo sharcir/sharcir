@@ -2,7 +2,7 @@
 - 👀 I’m interested in datascience and biochemistry
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on anything related to structural biology
-- 📫 How to reach me ...
+- 📫 You may reach me under richard.kuechler@fli.de
 
 <!---
 sharcir/sharcir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
